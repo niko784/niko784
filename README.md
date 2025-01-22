@@ -16,11 +16,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.tenable.com/" target="_blank">
-    <img src="https://www.svgrepo.com/show/331601/tenable.svg" height="34" alt="<tenable logo" />
-  </a>
-    &nbsp;
+<div align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://skillicons.dev/icons?i=bash" height="33" alt="bash logo" />
   </a>
