@@ -12,25 +12,17 @@
 ---
 ###
 
-<img align="right" height="300" src="/Resources/Gisac.gif"  />
+<img align="right" height="200" src="/Resources/Gisac.gif"  />
 
 ###
 
 <div align="center">
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bash" height="33" alt="bash logo" />
-  </a>
-  <img width="12" />
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
     <img src="https://skillicons.dev/icons?i=powershell" height="33" alt="powershell logo" />
   </a>
   <img width="12" />
   <a href="https://www.python.org/doc/" target="_blank">
     <img src="https://skillicons.dev/icons?i=py" height="33" alt="python logo" />
-  </a>
-  <img width="12" />
-  <a href="https://aws.amazon.com/documentation/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" height="33" alt="amazonwebservices logo" />
   </a>
   <img width="12" />
   <a href="https://portswigger.net/burp">
@@ -41,17 +33,18 @@
     <img src="https://nmap.org/images/sitelogo-nmap.svg" height="25" alt="Nmap logo" />
   </a>
   <img width="12" />
-  <a href="https://www.wireshark.org" target="_blank">
-    <img src="https://gitlab.com/parrotsec/project/graphics/-/raw/master/logo/parrotsec-logo.png" height="30" alt="Parrot OS logo" />
+  <a href="https://www.kali.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kali" height="33" alt="kali logo" />
   </a>
   <img width="12" />
-  <a href="https://neovim.io/doc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo" />
+   <a href="https://obsidian.md" target="_blank">
+    <img src="https://skillicons.dev/icons?i=obsidian" height="33" alt="obsidian logo" />
   </a>
   <img width="12" />
-  <a href="https://www.wireshark.org" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/6233056?s=200&v=4" height="30" alt="Wireshark logo" />
+   <a href="https://linux.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" height="33" alt="linux logo" />
   </a>
+  <img width="12" />
 </div>
 
 ###
@@ -76,8 +69,8 @@
 
   <br>
   <br>
-  <a href="https://app.hackthebox.com/profile/1022683" target="_blank">
-    <img src="https://www.hackthebox.eu/badge/image/1022683" alt="Hack The Box">
+  <a href="https://app.hackthebox.com/users/1935259" target="_blank">
+    <img src="https://www.hackthebox.eu/badge/image/1935259" alt="Hack The Box">
   </a>
 </div>
 
