@@ -6,7 +6,7 @@
   - Teach about cybersecurity and help fellow group members along the way.
   - Active HTB's player. 
 - 🌱 Keep studing and studing.
-- 🎓 Systems Engineering Student at Francisco José de Caldas District University
+- 🎓 Systems Engineering Student at Universidad Distrital Francisco Jose de Caldas
 - 🤝 Member of GISAC
 
 ---
