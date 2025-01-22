@@ -75,7 +75,6 @@
 </div>
 
 <br>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31endjz7tvfbbvv4l52mwfx75r3a&count=1" alt="Spotify recently played"  />
 
 ###
 ---
